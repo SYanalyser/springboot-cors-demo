@@ -1,0 +1,11 @@
+[[spring boot cors demo]]
+
+### 前后端分离
+
+### 跨域请求 ：cross origin resource shading for spring boot
+
+----
+method :@CrossOrigin(origins = “http://xxxxx”) 可粒度方法上控制对特殊域名配置（Handler CORS）
+----
+
+
