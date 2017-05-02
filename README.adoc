@@ -1,6 +1,6 @@
 # spring boot cors demo
 
-### 基于前后端分离实用CORS协议
+### 基于前后端分离 CORS协议
 
 ### 跨域请求 ：cross origin resource shading for spring boot
 
