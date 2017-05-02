@@ -1,4 +1,4 @@
-#spring boot cors demo
+# spring boot cors demo
 
 ### 基于前后端分离实用CORS协议
 
